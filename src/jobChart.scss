@@ -1,0 +1,19 @@
+.job-details{
+    position: relative;
+    >:first-child{
+        position: absolute;
+        top: 50px;
+        left: 15px;
+    }
+}
+
+.err-message{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+    color: red;
+    font-weight: bold;
+
+}

@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+1. SQL backup version is 14.0.1000.169
+2. I inserted data to DB. Of course it's not pretend to be close to a real data.
+3. The PredictedJobCount is just a simple calculation. I'm sure it should be calculate differently.
+4. I believe the user have an option to choose month and year, so that's the reason I passed it from client to server.
